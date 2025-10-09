@@ -1,0 +1,12 @@
+Nom Prenom : Théo Huger
+groupe : TP2
+
+site wordpress : https://theo340.wordpress.com/
+
+url de la page : http://web-info.univ-lemans.fr/~s2403114/WEB/template%202/REEL/
+url du template : https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+
+Modification : -ajout d'informations
+		-Nouvelle couleur
+		-ajout image
+		-finalisation du site

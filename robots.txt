@@ -1,0 +1,7 @@
+User-agent: Googlebot-news
+Disallow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: http://web-info.univ-lemans.fr/~s2403114/sitemap.xml
